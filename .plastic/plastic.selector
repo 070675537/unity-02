@@ -1,0 +1,4 @@
+repository "Genshin_LaunchAniamtion@miao_tu_tu@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
